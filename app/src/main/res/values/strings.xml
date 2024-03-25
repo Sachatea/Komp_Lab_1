@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab_1</string>
+    <string name="button_text">btn1</string>
+    <string name="title_activity_main2">MainActivity2</string>
+</resources>
